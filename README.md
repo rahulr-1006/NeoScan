@@ -1,4 +1,4 @@
-**PLEASE NOTE**: The repo with source code and data was made private due to The Health Insurance Portability and Accountability Act (HIPAA). This README file is a placeholder If you or someone else you know is interested in contributing to this project, please reach out to rramakrishnan106@vt.edu. Thank you for understanding!
+**PLEASE NOTE**: The repo with source code and data was made private due to The Health Insurance Portability and Accountability Act (HIPAA). This README file is a placeholder. If you or someone else you know is interested in contributing to this project, please reach out to rramakrishnan106@vt.edu. Thank you for understanding!
 
 # **NeoScan: Advancing Birth Defect Detection with Deep Learning**
 
